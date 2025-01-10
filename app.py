@@ -103,8 +103,8 @@ def auto_play_audio(audio_file):
     st.markdown(audio_html, unsafe_allow_html=True)
 
 def create_streamlit_app():
-    st.set_page_config(layout="wide", page_title="Voice-Powered Chatbot")
-    st.title("Voice-Powered Chatbot")
+    st.set_page_config(layout="wide", page_title="Sergio")
+    st.title("Sergio - AI Powered Property Dealer")
 
     # Session state for messages
     if "messages" not in st.session_state:
