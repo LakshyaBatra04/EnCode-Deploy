@@ -3,16 +3,12 @@ from typing_extensions import TypedDict
 from langchain_groq import ChatGroq
 from langchain_core.prompts import PromptTemplate
 from audio_recorder_streamlit import audio_recorder
-from pydub import AudioSegment
 from speech_recognition import Recognizer, AudioFile
 import requests
-import subprocess
-import shutil
 import streamlit as st
 import requests
 from dotenv import load_dotenv
 import os
-import json
 import base64
 from langchain_core.messages import BaseMessage
 
