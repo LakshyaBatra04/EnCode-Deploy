@@ -152,16 +152,24 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ---
 
 ## Contact  
+Here’s the corrected formatting for your contact section:  
 
-For questions, feedback, or collaboration opportunities, reach out at:  
-**Lakshya Batra**
+---
+
+## Contact  
+
+For questions, feedback, or collaboration opportunities, feel free to reach out to us:  
+
+### **Lakshya Batra**  
 - **Email**: [tt1222163@textile.iitd.ac.in](mailto:tt1222163@textile.iitd.ac.in)  
-- **LinkedIn**: [https://www.linkedin.com/in/lakshyabatra04/](https://www.linkedin.com/in/lakshyabatra04/)
-**Lakshya Kumar**
-- **Email**: [tt1222183@textile.iitd.ac.in](tt1222183@textile.iitd.ac.in)  
-- **LinkedIn**: [https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/lakshya-kumar-5a205a258/)
-**Dipanshu Goyal**
+- **LinkedIn**: [linkedin.com/in/lakshyabatra04/](https://www.linkedin.com/in/lakshyabatra04/)  
+
+### **Lakshya Kumar**  
+- **Email**: [tt1222183@textile.iitd.ac.in](mailto:tt1222183@textile.iitd.ac.in)  
+- **LinkedIn**: [linkedin.com/in/lakshya-kumar-5a205a258/](https://www.linkedin.com/in/lakshya-kumar-5a205a258/)  
+
+### **Dipanshu Goyal**  
 - **Email**: [tt1222143@textile.iitd.ac.in](mailto:tt1222143@textile.iitd.ac.in)  
-- **LinkedIn**: [https://www.linkedin.com/in/dipanshu-goyal-76a1b825a/](https://www.linkedin.com/in/dipanshu-goyal-76a1b825a/) 
+- **LinkedIn**: [linkedin.com/in/dipanshu-goyal-76a1b825a/](https://www.linkedin.com/in/dipanshu-goyal-76a1b825a/)  
 
 Enjoy using Sergio! 😊  
