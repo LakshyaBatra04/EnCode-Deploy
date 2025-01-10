@@ -60,7 +60,6 @@ prompt-toolkit
 psutil
 ptyprocess
 pure-eval
-PyAudio
 pycparser
 pydantic
 pydantic_core
