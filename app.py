@@ -117,7 +117,7 @@ def create_streamlit_app():
               Keep responses concise, empathetic, and solution-oriented to leave a lasting positive impression.Keep your answer in 70 words''')
         ]
     # Audio Recorder
-    st.markdown("### Record Your Voice")
+    st.markdown("### Click Below to talk")
     audio_bytes = audio_recorder()
 
     if audio_bytes:
