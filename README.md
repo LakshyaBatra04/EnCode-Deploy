@@ -1,4 +1,4 @@
-# Sergio - AI-Powered Real Estate Agent  
+# Sergio - AI-Powered Sales Agent  
 
 Sergio is an AI-powered, voice-enabled sales agent designed to assist users in real estate transactions. The system leverages advanced language models and speech-to-text (STT) and text-to-speech (TTS) technologies to create a conversational and interactive experience for potential buyers and sellers.  
 
@@ -152,7 +152,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Contact  
 
 For questions, feedback, or collaboration opportunities, reach out at:  
-- **Email**: [youremail@example.com](mailto:youremail@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)  
+- **Email**: [lakshyakumar.iitd@gmai.com](mailto:lakshyakumar.iitd@gmai.com)  
+- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/lakshya-kumar-5a205a258/))  
 
 Enjoy using Sergio! 😊  
