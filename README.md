@@ -152,7 +152,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Contact  
 
 For questions, feedback, or collaboration opportunities, reach out at:  
-- **Email**: [lakshyakumar.iitd@gmai.com](mailto:lakshyakumar.iitd@gmail.com)  
+- **Email**: [lakshyakumar.iitd@gmail.com](mailto:lakshyakumar.iitd@gmail.com)  
 - **LinkedIn**: [https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/lakshya-kumar-5a205a258/) 
 
 Enjoy using Sergio! 😊  
