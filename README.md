@@ -4,6 +4,8 @@ Sergio is an AI-powered, voice-enabled sales agent designed to assist users in r
 
 With Sergio, users can communicate in natural language, inquire about properties, and close deals seamlessly, ensuring a professional, customer-focused experience.  
 
+Experience at [encode-sergio](https://encode-sergio.streamlit.app/)
+
 ---
 
 ## Features  
@@ -152,7 +154,13 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Contact  
 
 For questions, feedback, or collaboration opportunities, reach out at:  
-- **Email**: [lakshyakumar.iitd@gmail.com](mailto:lakshyakumar.iitd@gmail.com)  
-- **LinkedIn**: [https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/lakshya-kumar-5a205a258/) 
+- **Email**: [tt1222163@textile.iitd.ac.in](mailto:tt1222163@textile.iitd.ac.in)  
+- **LinkedIn**: [https://www.linkedin.com/in/lakshyabatra04/](https://www.linkedin.com/in/lakshyabatra04/)
+  
+- **Email**: [tt1222183@textile.iitd.ac.in](tt1222183@textile.iitd.ac.in)  
+- **LinkedIn**: [https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/lakshya-kumar-5a205a258/)
+
+- **Email**: [tt1222143@textile.iitd.ac.in](mailto:tt1222143@textile.iitd.ac.in)  
+- **LinkedIn**: [https://www.linkedin.com/in/dipanshu-goyal-76a1b825a/](https://www.linkedin.com/in/dipanshu-goyal-76a1b825a/) 
 
 Enjoy using Sergio! 😊  
