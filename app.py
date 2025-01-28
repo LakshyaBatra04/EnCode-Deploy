@@ -118,7 +118,7 @@ def create_streamlit_app():
         ]
     # Audio Recorder
     st.markdown("### Click Below to talk")
-    audio_bytes = audio_recorder()
+    audio_bytes = audio_recorder(pause_threshold=2.0, sample_rate=44100)
 
     if audio_bytes:
         # Save audio
