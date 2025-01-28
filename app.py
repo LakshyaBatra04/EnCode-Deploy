@@ -37,7 +37,7 @@ tools = [tool]
 # Initialize the LLM
 llm = ChatGroq(
     temperature=0.7,
-    groq_api_key=os.getenv("API_KEY"),
+    groq_api_key=os.getenv("GROQ_API_KEY"),
     model="llama-3.1-70b-versatile"
 )
 llm_with_tools = llm.bind_tools(tools)
